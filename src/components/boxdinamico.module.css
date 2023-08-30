@@ -1,0 +1,32 @@
+.box{
+    background-color: rgb(132, 132, 132);
+    width: 70%;
+    height: 300px;
+   margin-left: 100px;
+   border-radius: 10px;
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+
+.input input{
+    margin-top: 25px;
+   
+  
+}
+.add{
+   display: flex;
+justify-content: center;
+ 
+}
+.input h1{
+    font-size: 12px;
+    
+   
+   
+   
+}
