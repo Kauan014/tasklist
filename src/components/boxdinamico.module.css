@@ -1,32 +1,30 @@
 .box{
-    background-color: rgb(132, 132, 132);
+    background-color: rgb(197, 191, 191);
     width: 70%;
     height: 300px;
+    margin-top: 20px;
    margin-left: 100px;
    border-radius: 10px;
+   border: 1px solid black;
 }
 
-.input{
-    display: flex;
-    justify-content: center;
-    margin-top: 100px;
-
+input{
+    margin-left: 145px;
 }
 
-.input input{
-    margin-top: 25px;
+
+    
    
   
-}
+
 .add{
    display: flex;
 justify-content: center;
  
 }
-.input h1{
-    font-size: 12px;
-    
-   
-   
-   
+h1{
+ 
+    text-align: center;
+    align-items: center;
+    font-size: 15px;
 }

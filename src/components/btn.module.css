@@ -1,7 +1,7 @@
 .btn{
     display: inline-block;
-    border-radius: 50%; /* Isso cria a forma circular */
-    background-color: #608096;
+    border-radius: 60%; /* Isso cria a forma circular */
+    background-color: #7397c6;
     color: white;
     padding: 10px 20px;
     text-align: center;
@@ -11,6 +11,9 @@
     cursor: pointer;
     margin-top: 100px;
     margin-left: 600px;
+    position: fixed;
+    left: 0;
+    top: 800px;
     
     
 }
